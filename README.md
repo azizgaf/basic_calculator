@@ -9,7 +9,7 @@ Python has been used to create a simple calculator tool which uses Tkinter to cr
 
 <p align="center">
 <br/>
-<img src="https://imgur.com/wlWUMd4.png" height="120%" width="120%"/>
+<img src="https://imgur.com/wlG5sfM.gif" height="120%" width="120%"/>
 <br />
 
 </p>
