@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-Python has been used to create a simple calculator tool which uses Tkinter to create a GUI with buttons, the inputs from the GUI are processed and a result is output to the GUI. 
+The aim of this simple project was to use Python to create a simple calculator tool using Tkinter to create a GUI with buttons, the inputs from the GUI are processed and a result is output to the GUI. 
 <br> 
 <br> Please note the user inputs are not checked and the script is susceptible to an injection attack. 
 
